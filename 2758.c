@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Eduardo Nunes de Abreu Júnior
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
+Data        : 09/04/2026
+Objetivo    : Ler 2 float (A,B) e 2 double (C,D), exibir com 8 formatos de precisão diferentes.
+Aprendizado : printf float: %.nf (n casas decimais), %.nE (notação científica); printf double: mesmo formato que float (double usa %f internamente); %.0f arredonda para inteiro sem decimais
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {
