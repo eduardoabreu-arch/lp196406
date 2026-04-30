@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1253
+Problema    : https://judge.beecrowd.com/pt/problems/view/1234
 Data        : 29/04/2026
 Objetivo    : Transformar sentença em "dançante": 1ª letra maiúscula, letras subsequentes alternam case ignorando espaços.
 Aprendizado : Processar string caractere por caractere com dois ponteiros (leitura/escrita); Detectar e preservar espaços na posição original; Rastrear estado de case alternado (maiúscula/minúscula) apenas para letras; Converter case com funções tolower() e toupper()
