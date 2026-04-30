@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1014
+Problema    : https://judge.beecrowd.com/pt/problems/view/1013
 Data        : 07/04/2026
 Objetivo    : Ler 3 valores inteiros e determinar qual é o maior entre eles.
 Aprendizado : Uso da função abs() da stdlib.h para valor absoluto; Leitura de 3 inteiros com scanf e saída formatada com printf
