@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Problema    : https://judge.beecrowd.com/pt/problems/view/1253
 Data        : 29/04/2026
 Objetivo    : Decodificar Cifra de César: deslocar letras maiúsculas N posições à esquerda (modular 26).
 Aprendizado : Ler N casos de teste com controle de loop; Processar string caractere por caractere; Cálculo modular para deslocamento circular: (c - 'A' - desloc + 26) % 26 + 'A'
