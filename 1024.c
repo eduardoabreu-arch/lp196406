@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1024
-Data        : 06/05/2026
+Data        : 07/05/2026
 Objetivo    : Solicitaram para que você construisse um programa simples de criptografia. Este programa deve possibilitar enviar mensagens codificadas sem que alguém consiga lê-las.
 Aprendizado : Uso de string para embaralhar e desembaralhar a palavra.
 -------------------------------------------------------------------------- */
