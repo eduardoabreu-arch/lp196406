@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1015
-Data        : DD/MM/2026
+Data        : 14/05/2026
 Objetivo    : Ler as coordenadas de dois pontos no plano cartesiano e
               calcular a distância entre eles utilizando a fórmula da
               distância euclidiana.
