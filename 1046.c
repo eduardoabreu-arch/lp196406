@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1046
-Data        : DD/MM/2026
+Data        : 19/05/2026
 Objetivo    : Ler a hora inicial e a hora final de um jogo e calcular a
               duração da partida, considerando que o jogo pode atravessar
               a meia-noite e que sua duração mínima é de 1 hora e máxima
