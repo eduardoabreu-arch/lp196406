@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1169
-Data        : DD/MM/2026
+Data        : 28/005/2026
 Objetivo    : Calcular a quantidade de trigo presente em um tabuleiro de
               xadrez onde cada casa possui o dobro da quantidade de grãos
               da casa anterior e determinar o peso total em quilogramas.
