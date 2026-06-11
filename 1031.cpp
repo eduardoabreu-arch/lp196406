@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1031
-Data        : DD/MM/2026
+Data        : 09/06/2026
 Objetivo    : Utilizar recursão e memoização para resolver uma variação do
               Problema de Josephus, determinando o menor valor de M que faz
               com que a região 13 seja a última eliminada.
