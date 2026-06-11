@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1441
-Data        : DD/MM/2026
+Data        : 26/05/2026
 Objetivo    : Utilizar recursão para gerar a sequência de Collatz
               (ou sequência 3n + 1) e determinar o maior valor alcançado
               durante a execução até que a sequência chegue ao número 1.
