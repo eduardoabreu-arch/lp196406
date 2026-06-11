@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1168
-Data        : DD/MM/2026
+Data        : 19/05/2026
 Objetivo    : Ler diversos valores numéricos representados como texto e
               calcular a quantidade total de LEDs necessários para exibi-los
               em um painel digital de sete segmentos.
