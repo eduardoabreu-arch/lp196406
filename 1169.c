@@ -1,3 +1,22 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Eduardo Nunes de Abreu Júnior
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1169
+Data        : DD/MM/2026
+Objetivo    : Calcular a quantidade de trigo presente em um tabuleiro de
+              xadrez onde cada casa possui o dobro da quantidade de grãos
+              da casa anterior e determinar o peso total em quilogramas.
+Aprendizado : Manipulação de números inteiros muito grandes utilizando
+              unsigned long long, crescimento exponencial, potências de 2,
+              estruturas de repetição, conversão de unidades e análise dos
+              limites dos tipos numéricos da linguagem C.
+Pergunta de segunda ordem: Por que o crescimento exponencial gera valores
+                            extremamente grandes em poucas iterações e como
+                            escolher um tipo de dado adequado para evitar
+                            estouro de capacidade (overflow)?
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 unsigned long long int potencia(int base, int expoente)
