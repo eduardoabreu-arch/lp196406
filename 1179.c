@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1179
-Data        : DD/MM/2026
+Data        : 19/05/2026
 Objetivo    : Ler 15 valores inteiros, armazenar os números pares e ímpares
               em vetores distintos de tamanho 5 e imprimir os conteúdos
               sempre que um dos vetores for preenchido, seguindo o formato
