@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1029
-Data        : DD/MM/2026
+Data        : 26/05/2026
 Objetivo    : Utilizar recursão para calcular valores da sequência de
               Fibonacci e determinar quantas chamadas recursivas são
               realizadas durante o processo.
