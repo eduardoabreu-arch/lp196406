@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
-Linguagem   : C#
+Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1030
 Data        : DD/MM/2026
 Objetivo    : Utilizar recursão para resolver o Problema de Josephus,
@@ -9,7 +9,7 @@ Objetivo    : Utilizar recursão para resolver o Problema de Josephus,
               eliminações em um círculo de pessoas.
 Aprendizado : Aplicação de recursão, definição de casos-base,
               aritmética modular, resolução do Problema de Josephus e
-              compreensão de como uma solução recursiva pode ser definida
+              compreensão de como uma solução recursiva pode ser construída
               a partir de subproblemas menores.
 Pergunta de segunda ordem: Como a fórmula recursiva do Problema de
                             Josephus é construída e por que a operação
@@ -17,32 +17,38 @@ Pergunta de segunda ordem: Como a fórmula recursiva do Problema de
                             posições dentro do círculo?
 -------------------------------------------------------------------------- */
 
-using System;
+#include <iostream>
 
-class URI
+using namespace std;
+
+int sobrevivente(int n, int k)
 {
-    static int sobrevivente(int n, int k)
+    if (n == 1)
     {
-        if (n == 1)
-        {
-            return 0;
-        }
-
-        return (sobrevivente(n - 1, k) + k) % n;
+        return 0;
     }
 
-    static void Main(string[] args)
+    return (sobrevivente(n - 1, k) + k) % n;
+}
+
+int main()
+{
+    int NC;
+
+    cin >> NC;
+
+    for (int i = 1; i <= NC; ++i)
     {
-        int NC = int.Parse(Console.ReadLine());
+        int n, k;
 
-        for (int i = 1; i <= NC; ++i)
-        {
-            string[] entrada =
-                Console.ReadLine().Trim().Split(' ');
+        cin >> n >> k;
 
-            Console.WriteLine(
-                $"Case {i}: {sobrevivente(int.Parse(entrada[0]), int.Parse(entrada[1])) + 1}"
-            );
-        }
+        cout << "Case "
+             << i
+             << ": "
+             << sobrevivente(n, k) + 1
+             << endl;
     }
+
+    return 0;
 }
