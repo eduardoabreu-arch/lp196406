@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Eduardo Nunes de Abreu Júnior
 Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1030
-Data        : DD/MM/2026
+Data        : 09/06/2026
 Objetivo    : Utilizar recursão para resolver o Problema de Josephus,
               determinando a posição do sobrevivente após sucessivas
               eliminações em um círculo de pessoas.
